@@ -16,8 +16,6 @@ Um app Flutter que utiliza a API Gemini da Google para resolver e explicar probl
 |--------|-----------------|
 | ![entrada](assets/screens/input.png) | ![resposta](assets/screens/response.png) |
 
-> *Adicione suas imagens reais na pasta `assets/screens` ou substitua os caminhos acima.*
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
