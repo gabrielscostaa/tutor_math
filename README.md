@@ -20,7 +20,7 @@ Um app Flutter que utiliza a API Gemini da Google para resolver e explicar probl
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Flutter** 3.x
+- **Flutter**
 - **Dart**
 - **Google Gemini API (2.0 Flash)**
 - [`http`](https://pub.dev/packages/http) para chamadas REST
